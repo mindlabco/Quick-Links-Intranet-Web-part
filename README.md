@@ -9,4 +9,5 @@ It is a custom web part built in SPFx. We have used SharePoint PnP and Typescrip
 5) Now run *npm install* command to install all the npm packages
 # Output
 Below Screenshot wil be the output of this web part
+
 ![Image of Yaktocat](https://github.com/mindlabco/Quick-Links-Intranet-Web-part/blob/master/Quick-Links.png)
