@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.0",
+    "libraryName": "quick-links-webpart",
+    "libraryId": "e4024ea3-de15-48bb-8c4c-0881dbc3dbf3",
+    "environment": "spo"
+  }
+}

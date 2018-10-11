@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "quick-links-webpart-client-side-solution",
+    "id": "e4024ea3-de15-48bb-8c4c-0881dbc3dbf3",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/quick-links-webpart.sppkg"
+  }
+}
